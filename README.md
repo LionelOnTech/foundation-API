@@ -1,15 +1,14 @@
 [![Official repository by buildingSMART International](https://img.shields.io/badge/buildingSMART-Official%20Repository-orange.svg)](https://www.buildingsmart.org/)
 [![This repo is managed by the OpenCDE APIs Implementers Group](https://img.shields.io/badge/-BCF%20Implementers%20Group-blue.svg)](https://img.shields.io/badge/-BCF%20Implementers%20Group-blue.svg)
 
-# OpenCDE Foundation API
-![](https://raw.githubusercontent.com/BuildingSMART/BCF/master/Icons/BCFicon128.png)
+![buildingSMART_RGB_FoundationAPI_v4](https://github.com/user-attachments/assets/4fc5dc1d-2a0c-4e56-882b-94841a6ee920)
 
 **Version 1.1** Released together with Documents API 1.0.
 [BCF API GitHub repository](https://github.com/buildingSMART/Documents-API/tree/v1.0)
 
-** Contributing **
+**Contributing**
 
-The Open CDE workgroup develops the Foundation API standard. The group meets every second Monday at 11am CET. To join the fortnightly meeting please email [opencde@buildingsmart.org](mailto:opencde@buildingsmart.org).
+The Open CDE workgroup develops the Foundation API standard. 
 
 
 **Table of Contents**
