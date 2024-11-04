@@ -223,7 +223,7 @@ Returns a list of all supported OpenCDE APIs and their versions.
 
 [auth_GET.json](schemas/auth_GET.json)
 
-Authentication is based on the [OAuth 2.0 Protocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22).
+Authentication is based on the [OAuth 2.0 Protocol](https://tools.ietf.org/html/rfc6749).
 
 **Resource URL (public resource)**
 
