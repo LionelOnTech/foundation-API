@@ -17,7 +17,7 @@ To initiate the workflow, the client sends the user to the **"oauth2\_auth_url"*
 
 Example URL:
 
-    GET https://example.com/foundation/oauth2/auth?response_type=code&client_id=<your_client_id>&state=<user_defined_string>&redirect_url=https://YourWebsite.com
+    GET https://example.com/foundation/oauth2/auth?response_type=code&client_id=<your_client_id>&state=<user_defined_string>&redirect_url=https://YourWebsite.com/retrieveCode
 
 _On Windows operating systems, it is possible to open the systems default browser by using the url to start a new process._
 
